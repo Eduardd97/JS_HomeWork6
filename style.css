@@ -1,0 +1,14 @@
+#rectangle {
+    margin-top: 100px;
+    border: 1px solid black;
+    width: 200px;
+    height: 100px;
+    min-width: 100px;
+}
+
+#sideAValue, #sideBValue {
+    padding: 5px;
+    background: white;
+    font-size: 12px;
+    white-space: nowrap;
+}
